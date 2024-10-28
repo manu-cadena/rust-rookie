@@ -1,0 +1,1 @@
+/Users/manulopez/Blockchain\ Utveckling/Rust/rust-rookie/challenge_max_min_mean/target/debug/challenge_max_min_mean: /Users/manulopez/Blockchain\ Utveckling/Rust/rust-rookie/challenge_max_min_mean/src/main.rs
